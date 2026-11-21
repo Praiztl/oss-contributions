@@ -15,6 +15,7 @@ Contributions to Java and Spring open source projects, alongside my day job as a
 | Date | Project | Contribution | Status |
 |---|---|---|---|
 | 2026-11-20 | [validator.js](https://github.com/validatorjs/validator.js) | [Add postal code validation for Turkey (TR)](https://github.com/validatorjs/validator.js/pull/2968) (#2968) | Open |
+| 2026-11-21 | [Keycloak](https://github.com/keycloak/keycloak) | [Pass redirect_uri in organization invite registration link](https://github.com/keycloak/keycloak/pull/55428) (#55428) | Draft |
 
 *New entries are added once a pull request is opened upstream.*
 
