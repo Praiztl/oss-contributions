@@ -19,6 +19,8 @@ Contributions to Java and Spring open source projects, alongside my day job as a
 | 2026-11-21 | [Apache Fineract](https://github.com/apache/fineract) | [Migrate Fund write requests to typed command infrastructure](https://github.com/apache/fineract/pull/6999) (#6999) | Ready for review |
 *New entries are added once a pull request is opened upstream.*
 
+_Last updated: 24 November 2026._
+
 ## How I work
 
 I discuss changes with maintainers before writing them, follow each project's own conventions, keep pull requests small and tested, and report anything security-related privately.
